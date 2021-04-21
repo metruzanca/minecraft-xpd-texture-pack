@@ -1,4 +1,11 @@
-# Minecraft XPD Texture Pack
+<p align="center">
+  <a href="#">
+    <img alt="repository logo" src="pack.png" width="120" />
+  </a>
+</p>
+<h1 align="center">
+  Minecraft XPD Texture Pack
+</h1>
 
 > Originally Created back in 2015 while the XPD Server was in its Prime. (Before it temporarily became *The Respawn Network*)
 
